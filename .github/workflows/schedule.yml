@@ -1,4 +1,4 @@
-name: Update gist with WakaTime stats
+name: Update WakaTime stats on gist 7d5a2aa1548322e196c4af201977c169
 on:
   schedule:
     - cron: "* * * * *"
